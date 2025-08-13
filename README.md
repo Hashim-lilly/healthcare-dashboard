@@ -43,7 +43,7 @@ healthcare-dashboard/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/healthcare-dashboard.git
+git clone https://github.com/Hashim-lilly/healthcare-dashboard.git
 cd healthcare-dashboard
 ```
 
